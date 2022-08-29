@@ -12,3 +12,12 @@
     background-color: rgb(174, 183, 9);
     ;
 }
+
+.img-custom {
+    height: 200px;
+}
+
+.card-project :hover {
+    transform: scale(1.02);
+    transition: 1s;
+}
